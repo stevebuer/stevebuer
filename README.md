@@ -2,6 +2,7 @@
 
 My interests include
 
+* Linux/UNIX
 * Amateur Radio
 * Microcontrollers
 * Single Board Computers
