@@ -7,3 +7,4 @@ My interests include
 * Microcontrollers
 * Single Board Computers
 * Electronics
+* Math
